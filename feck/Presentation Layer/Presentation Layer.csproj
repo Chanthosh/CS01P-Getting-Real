@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseController.cs" />
     <Compile Include="MenuItem\Travel\AddExpenditure.cs" />
     <Compile Include="MenuItem\Travel\CreateTravel.cs" />
     <Compile Include="MenuItem\AddCompensationToDepartment.cs" />
